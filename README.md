@@ -17,3 +17,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
+
+
+A tecnologia é um conjunto de conhecimentos e técnicas que simplificam tarefas e resolvem problemas humanos. Envolve colaboração, inovação e propósito para promover melhorias.
