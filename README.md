@@ -20,3 +20,6 @@
 
 
 A tecnologia é um conjunto de conhecimentos e técnicas que simplificam tarefas e resolvem problemas humanos. Envolve colaboração, inovação e propósito para promover melhorias.
+
+## Ultimos videos:
+- [Tecnologia Artificial](https://www.youtube.com/watch?v=Qxe07BWpkWk)<br/>
