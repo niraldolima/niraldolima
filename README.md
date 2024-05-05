@@ -23,3 +23,9 @@ A tecnologia é um conjunto de conhecimentos e técnicas que simplificam tarefas
 
 ## Ultimos videos:
 - [Tecnologia Artificial](https://www.youtube.com/watch?v=Qxe07BWpkWk)<br/>
+- [Hospedando Site no Google Drive](https://www.youtube.com/watch?v=nPx7s1sWqvs)<br/>
+
+
+
+
+
